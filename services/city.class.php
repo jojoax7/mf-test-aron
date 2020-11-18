@@ -31,7 +31,9 @@ class City
   public function list() 
   {
     try {
-      $connection = new PDO("mysql:host=localhost;dbname=supportmf","root","root");
+      $configFile = 'env.ini';
+      $env = parse_ini_file($configFile);
+      $connection = new PDO("mysql:host={$env['host']};dbname={$env['database']}",$env['user'],$env['pass']);
 
       $query = "SELECT * FROM cities ORDER BY name";
       
