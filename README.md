@@ -14,5 +14,5 @@
 ## Tips
 - Be attentive to the context and client requirements
 - Be concise and efficient
-- Be the explicier you can
+- Be the expliciest you can
 - Privilege the simplest solution 
