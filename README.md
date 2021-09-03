@@ -7,7 +7,7 @@
 - [ ] Set up the `env.ini` with your local params 
 
 ## To do
-- Analyse and treat the support ticket passed by @Andressa from Support Tier 1: {notion_link}
+- Analyse and treat the support ticket passed by @Andressa from Support Tier 1: https://www.notion.so/managerfashion/Problemas-diversos-no-formul-rio-e-na-listagem-dos-Talentos-37baa5d55ed64eee9d22dfa1e2321620
 - Add your analysis, changes summary and any other reports into the Ticket in Notion
 - Commit and push to this repo the changes you made
 
